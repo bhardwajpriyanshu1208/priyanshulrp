@@ -1,0 +1,14 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:smartfilterbar="sap.ui.comp.smartfilterbar"
+    xmlns:core="sap.ui.core">
+    <smartfilterbar:ControlConfiguration id="_IDGenControlConfiguration1" groupId="_BASIC"
+        key="descFilter"
+        label="Custom Description"
+        visibleInAdvancedArea="true">
+        <smartfilterbar:customControl>
+            <ComboBox id="descFilter" items="{/Travel}">
+                <core:Item id="_IDGenItem1" key="{Description}" text="{Description}" />
+
+            </ComboBox>
+        </smartfilterbar:customControl>
+    </smartfilterbar:ControlConfiguration>
+</core:FragmentDefinition>

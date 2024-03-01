@@ -1,0 +1,41 @@
+{
+    "fileName": "id_1709037120754_697_propertyChange",
+    "fileType": "change",
+    "changeType": "propertyChange",
+    "moduleName": "",
+    "reference": "scm.nxt.priyanshulrp",
+    "packageName": "",
+    "content": {
+        "property": "editable",
+        "newValue": false
+    },
+    "selector": {
+        "id": "scm.nxt.priyanshulrp::sap.suite.ui.generic.template.ObjectPage.view.Details::Travel--to_Booking::com.sap.vocabularies.UI.v1.LineItem::Table",
+        "idIsLocal": false,
+        "type": "sap.ui.comp.smarttable.SmartTable"
+    },
+    "layer": "CUSTOMER_BASE",
+    "texts": {},
+    "namespace": "apps/scm.nxt.priyanshulrp/changes/",
+    "projectId": "",
+    "creation": 1709037307904,
+    "originalLanguage": "",
+    "support": {
+        "generator": "changeUtils: SAPFioriTools",
+        "service": "",
+        "user": "",
+        "sapui5Version": "1.120.7",
+        "sourceChangeFileName": "",
+        "compositeCommand": ""
+    },
+    "oDataInformation": {},
+    "dependentSelector": {},
+    "validAppVersions": {
+        "from": "0.0.1",
+        "to": "0.0.1",
+        "creation": "0.0.1"
+    },
+    "jsOnly": false,
+    "variantReference": "",
+    "appDescriptorChange": false
+}
